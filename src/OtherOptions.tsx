@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import { ReactNode } from "react";
 import GoogleIcon from "./icons/GoogleIcon";
 import FacebookIcon from "./icons/FacebookIcon";
 import PhoneIcon from "./icons/PhoneIcon";
